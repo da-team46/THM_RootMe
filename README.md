@@ -1,9 +1,9 @@
 # THM_RootMe
 Write Up TryHackMe Root Me url: https://tryhackme.com/room/rrootme
 
-'''
+```
 Note: in my case my machine ip is 10.10.154.156
-'''
+```
 # Task 2: Reconnaissance
 
 ## Step One: Scan The Machine IP
